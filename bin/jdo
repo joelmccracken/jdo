@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+// -*- mode: javascript -*-
+
+var jDoCli = require('../lib/jDoCli.js');
+jDoCli.start();
